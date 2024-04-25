@@ -13,7 +13,7 @@ Es una técnica utilizada mediante software para extraer información de los sit
 Usualmente se utiliza herramientas y bibliotecas diseñadas para parsear HTML y extraer datos, como Beautiful Soup o Selenium en Python.
 
 ## ¿Realmente lo que necesitamos es scrappear mercadolibre?
-Nosotros consideramos que no. El cliente quiere saber como van cambiando los precios en mercadolibre para saber que precio ponerle a sus productos. Nosotros sabemos que tenemos que ir a buscar estos datos a un lugar puntual, no es una búsqueda y recopilación de datos sin sentido. Sabemos que si necesitamos un dato puntual podemos buscarlo mediante una API y en este caso tenemos la API de Mercadolibre.
+Nosotros consideramos que no. El cliente quiere saber como van cambiando los precios en mercadolibre para saber que precio ponerle a sus productos. Nosotros sabemos que tenemos que ir a buscar estos datos a un lugar puntual, no es una búsqueda y recopilación de datos desordenados. Sabemos que si necesitamos un dato puntual podemos buscarlo mediante una API y en este caso tenemos la API de Mercadolibre.
 
 ## ¿Qué opciones encontramos?
 Encontramos dos caminos, efectivamente hacer scrapping con selenium o usar la api que ofrece mercadolibre. Consideramos que lo mejor sería usar la API.
