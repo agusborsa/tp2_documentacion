@@ -28,3 +28,5 @@ Las razones fueron la flexibilidad, asumir que realmente lo que se necesita es M
 ## ¿Qué información trae la API?
 
 ### Pruebas API Mercadolibre
+https://developers.mercadolibre.com.ar/es_ar/items-y-busquedas
+
