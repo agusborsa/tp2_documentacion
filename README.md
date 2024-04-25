@@ -1,4 +1,4 @@
-# tp2_documentacion
+# Scrapper Mercadolibre - Documentación
 
 ## Pedido 1
 Me estoy abriendo mi propio quiosco y necesito ponerle precios a los precios. Me fije como andan los precios en Mercado Libre para darme una idea, pero todos los días cambian. A veces peor, cambian a cada hora. Si entro todos los días a fijarme como cambiaron, pierdo como una hora. Vendo varios productos de distintas categorías, filtrar uno por uno es un lio.
