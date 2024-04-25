@@ -16,7 +16,7 @@ Usualmente se utiliza herramientas y bibliotecas diseñadas para parsear HTML y 
 Nosotros consideramos que no. El cliente quiere saber como van cambiando los precios en mercadolibre para saber que precio ponerle a sus productos. Nosotros sabemos que tenemos que ir a buscar estos datos a un lugar puntual, no es una búsqueda y recopilación de datos desordenados. Sabemos que si necesitamos un dato puntual podemos buscarlo mediante una API y en este caso tenemos la API de Mercadolibre.
 
 ## ¿Qué opciones encontramos?
-Encontramos dos caminos, efectivamente hacer scrapping con selenium o usar la api que ofrece mercadolibre. Consideramos que lo mejor sería usar la API.
+Encontramos dos caminos, efectivamente hacer scrapping con selenium dado la estructura y contenido dinámico de la web de Mercadolibre o usar la API que ofrece mercadolibre. Consideramos que lo mejor sería usar la API.
 
 ## ¿Por qué elegimos ir por la API de Mercadolibre?
 Creemos que cumple como solución a este problema puntual. Es un entorno más controlado y solo accedemos a los endpoints que necesitamos, no se necesita más.
