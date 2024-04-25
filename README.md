@@ -26,6 +26,7 @@ Para evaluar ambas propuestas tuvimos en cuenta, contexto inflacionario, asumpti
 Las razones fueron la flexibilidad, asumir que realmente lo que se necesita es MAPEAR los precios de otros vendedores pero eso no quita que vos tengas ue estar actualizando tus precios por tus proveedores, entonces por que estar limitándose a aumentar solo un 10%, los precios pueden subir un 5%, 6% y si no lo actualizas es plata que pierde el negocio.
 
 ## ¿Qué información trae la API?
+https://developers.mercadolibre.com/devcenter/
 
 ### Pruebas API Mercadolibre
 https://developers.mercadolibre.com.ar/es_ar/items-y-busquedas
