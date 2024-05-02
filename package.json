@@ -1,0 +1,23 @@
+{
+  "name": "tp2_documentacion",
+  "version": "1.0.0",
+  "description": "Me estoy abriendo mi propio quiosco y necesito ponerle precios a los precios. Me fije como andan los precios en Mercado Libre para darme una idea, pero todos los días cambian. A veces peor, cambian a cada hora. Si entro todos los días a fijarme como cambiaron, pierdo como una hora. Vendo varios productos de distintas categorías, filtrar uno por uno es un lio.\r Necesito alguna forma de estar al tanto de los precios todos los días pero sin estar entrando a Mercado Libre manualmente y poniendo los productos uno por uno.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agusborsa/tp2_documentacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agusborsa/tp2_documentacion/issues"
+  },
+  "homepage": "https://github.com/agusborsa/tp2_documentacion#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
