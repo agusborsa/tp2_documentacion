@@ -19,5 +19,6 @@
   "homepage": "https://github.com/agusborsa/tp2_documentacion#readme",
   "dependencies": {
     "typescript": "^5.4.5"
-  }
+  },
+  "type": "module"
 }
