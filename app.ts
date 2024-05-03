@@ -1,10 +1,9 @@
 import { Kiosco, kiosco, Producto, Reporte, reporte } from "./data";
-import dotenv from 'dotenv';
-dotenv.config();
 
 async function searchItems(query: string): Promise<Promise<Producto[]>> {
   try {
       const accessToken = process.env.ACCESS_TOKEN;
+      console.log(accessToken);
       const apiUrl = `https://api.mercadolibre.com/sites/MLA/search?q=${query}&access_token=${accessToken}`;
       
       const response = await fetch(apiUrl);
