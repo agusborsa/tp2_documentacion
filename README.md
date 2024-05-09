@@ -56,10 +56,13 @@ Hacemos el 'git clone' desde la consola de nuestro Visual para que nos copie tod
 
 Configuramos todo con los comandos copados que pasó Diego en las presentaciones de las clases introductorias de Typescript.
 #### Te tiro algunos:
+
 `tsc --init` // te crea el tsconfig.json
+
 `npm install --save-dev typescript` // te instala Typescript como dependencia de desarrollo.
-// hay muchos más, esto es lo minimo e indispensable, pero te sirve como punto de partida para configurar el repo.
-// creen el *.gitignore*, que lo vamos a usar.
+
+Hay muchos más, esto es lo minimo e indispensable, pero te sirve como punto de partida para configurar el repo.
+- Creen el *.gitignore*, que lo vamos a usar.
 
 Una vez tenemos bien linkeado la carpeta local (el código que abrimos desde el Visual) con GitHub, podemos proceder a la etapa de configurar el Vercel.
 
