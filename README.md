@@ -135,10 +135,6 @@ Una vez termines, le darás a enviar y te mandará un *jSON* con la data que sol
 ### Así:
 
 ```` https://api.mercadolibre.com/sites/MLA/search?q=${query}&access_token=${accessToken} ````
-                                         ^                ^                        ^
-                                         |                |                        |
-                                *Región: Argentina*   *el query*                *el AT*
-
 Donde figura *query* ingresamos el parámetro de búsqueda y, donde dice *accessToken* ingresamos el accessToken; igual ojo, no termina acá.
 
 #### El AT es *IMPRESCINDIBLE* que lo pongan en el archivo .env (que en tu caso ya deje setteado, así que no va a ser necesario) y que el .env lo agreguen al gitignore. Sino queda expuesta información sensible y podría ser un riesgo para ustedes [la re vivía; igual posta, a mi me hackearon por dejar todo expuesto (creo)].
